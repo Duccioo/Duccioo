@@ -9,6 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [About](https://duccio.me/article/2.6585304907964915e+38)
+- [Twisted Thought GAN](https://duccio.me/article/1.994928756287632e+38)
+- [Mice Glomeruli Segmentation](https://duccio.me/article/2.011805938238103e+38)
+- [Feedygram](https://duccio.me/article/4.269382480460554e+37)
+- [Update Sito #1](https://duccio.me/article/2.61785581132589e+38)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
