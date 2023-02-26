@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duccioo&label=Profile%20views&color=0e75b6&style=flat" alt="duccioo" /> </p>
 
-- 👨‍💻 All of my projects are available at [duccio.me](duccio.me)
+- 👨‍💻 All of my projects are available at [duccio.me](http://www.duccio.me)
 
 - 📫 How to reach me **meconcelliduccio@gmail.com**
 
