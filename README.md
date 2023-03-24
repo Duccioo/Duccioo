@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **meconcelliduccio@gmail.com**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [About](https://duccio.me/article/2.6585304907964915e+38)
 - [Twisted Thought GAN](https://duccio.me/article/1.994928756287632e+38)
