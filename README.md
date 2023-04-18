@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duccio</h1>
 <h3 align="center">I'm bored</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duccioo&label=Profile%20views&color=orange&style=flat" alt="duccioo" /> </p>
-
 - 👨‍💻 All of my projects are available at [duccio.me](https://www.duccio.me)
 
 - 📫 How to reach me **meconcelliduccio@gmail.com**
