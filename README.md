@@ -6,7 +6,6 @@
 </p>
 
 
-
 - 👨‍💻 All of my projects are available at [duccio.me](https://www.duccio.me)
 
 - 📫 How to reach me **meconcelliduccio@gmail.com**
