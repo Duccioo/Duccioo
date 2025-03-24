@@ -5,9 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=duccioo&label=Profile%20views&color=0e75b6&style=flat" alt="duccioo" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/duccioo" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/duccioo?logo=twitter&style=for-the-badge" alt="duccioo" /></a>
-</p>
+
 
 - 👨‍💻 All of my projects are available at [duccio.me](https://www.duccio.me)
 
